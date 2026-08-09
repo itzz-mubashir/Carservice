@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Ultra-Luxury Auto Detailing Studio",
+  "description": "Award-winning car wash and auto detailing studio featuring bespoke paint correction, ceramic coating, and precision interior crafting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
